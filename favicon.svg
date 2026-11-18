@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="64" height="64">
+  <!-- Sky-blue droplet -->
+  <path
+    d="M 27 31 C 23 30, 19 35, 22 40 C 24 43, 27 42, 27 42 C 27 38, 28 33, 27 31 Z"
+    fill="#00A8FF"
+  />
+  <!-- Sky-blue main splash swirl -->
+  <path
+    d="M 65 62 C 47 78, 22 72, 18 52 C 16 44, 23 41, 27 48 C 28 50, 29 48, 29 44 C 31 28, 45 15, 55 17 C 60 18, 59 24, 53 28 C 39 36, 36 53, 45 62 C 51 67, 59 66, 65 62 Z"
+    fill="#00A8FF"
+  />
+  <!-- Orange top-right splash petal -->
+  <path
+    d="M 50 34 C 60 25, 76 22, 83 31 C 86 36, 82 42, 75 40 C 67 37, 58 33, 50 34 Z"
+    fill="#FF7816"
+  />
+  <!-- Purple bottom-right splash swirl -->
+  <path
+    d="M 61 36 C 75 44, 81 62, 71 75 C 66 81, 57 81, 58 75 C 59 70, 66 65, 68 56 C 70 47, 66 40, 61 36 Z"
+    fill="#9E1EF0"
+  />
+  <!-- Golden-yellow rounded play triangle -->
+  <path
+    d="M 43 44 C 43 39, 47 37, 51 40 L 62 47 C 66 50, 66 54, 62 57 L 51 64 C 47 67, 43 65, 43 60 Z"
+    fill="#FAC62D"
+  />
+</svg>
